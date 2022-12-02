@@ -1,9 +1,6 @@
 package GIT;
 
-class HelloITI{
-public void PrintHelloITI(){
-System.out.println("Hello ITI");
-}
+
 public void PrintHelloGIT(){
 System.out.println("Hello GIT");
 }
